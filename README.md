@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gallery-by-React
 
 根据慕课网mater Liu老师的教程，自己下载的最新node版本，
@@ -9,3 +10,7 @@
 ##框架介绍
 采用yeoman生成脚手架,运用了webpack+React+ES6+SASS.
 图片及文字信息在src/data/imageData.json
+=======
+# gallery-by-react
+one photo gallery project based on react
+>>>>>>> origin/master
